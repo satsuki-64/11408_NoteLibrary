@@ -1,0 +1,16 @@
+{
+  "accentColor": "#7accff",
+  "theme": "obsidian",
+  "translucency": false,
+  "baseFontSize": 15,
+  "textFontFamily": "字魂160号-檀宋",
+  "cssTheme": "AnuPpuccin",
+  "enabledCssSnippets": [
+    "表格优化",
+    "AnuExtendTheme",
+    "custom-admonitions.100296"
+  ],
+  "baseFontSizeAction": true,
+  "nativeMenus": false,
+  "interfaceFontFamily": "Century,Arial,Inter"
+}

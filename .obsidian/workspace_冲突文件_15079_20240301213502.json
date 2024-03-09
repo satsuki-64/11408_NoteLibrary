@@ -1,0 +1,281 @@
+{
+  "main": {
+    "id": "9c649a129cd49f4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa9deca7a73c5f4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e39adc93204ef1a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "9. 题目/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0fff0090bc06a9da",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-15 20.13.27.excalidraw.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "465b84ead89aedc1",
+    "type": "split",
+    "children": [
+      {
+        "id": "b32c6e78e362583c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9570b176e5062bdb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "84db9c06c5e79f75",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "014f75e2bb202f63",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "41780a592e392901",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 342,
+    "collapsed": true
+  },
+  "right": {
+    "id": "2ec678cf7e211286",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a22ea0bd65ce3a2",
+        "type": "tabs",
+        "dimension": 50.185528756957325,
+        "children": [
+          {
+            "id": "1d5e877c87f2c56d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-15 20.13.27.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "51787655e28d34eb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7b52a9acf5f35668",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "643ae1aa261f0f1f",
+        "type": "tabs",
+        "dimension": 31.261595547309835,
+        "children": [
+          {
+            "id": "8ca6f3e73459e00b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "0e600a84ae9d079a",
+        "type": "tabs",
+        "dimension": 18.552875695732837,
+        "children": [
+          {
+            "id": "a3c402f56bd8c009",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "02b701b92ede968b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "fb33a0c5721b0668",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-15 20.13.27.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d9af19663fdb47ec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-15 20.13.27.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 314,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "0fff0090bc06a9da",
+  "lastOpenFiles": [
+    "9. 题目/Untitled.md",
+    "Excalidraw/Drawing 2024-02-15 20.13.27.excalidraw.md",
+    "Excalidraw",
+    "8. 就业&考研&创业/3. 就业/线上实习准备.md",
+    "9. 题目",
+    "8. 就业&考研&创业/3. 就业/线上实习准备.md.baiduyun.uploading.cfg",
+    "8. 就业&考研&创业/3. 就业/Lecture 1：简历制作教程.md",
+    "6. 其余杂项/1. 临时记录/医院陪护所需准备内容.md",
+    "6. 其余杂项/1. 临时记录/待准备物品.md",
+    "6. 其余杂项/1. 临时记录/家教信息记录.md",
+    "6. 其余杂项/1. 临时记录/24年春节过年衣服收集.md",
+    "6. 其余杂项/1. 临时记录/2024.1.16 晴雨家工伤相关事宜.md",
+    "8. 就业&考研&创业/3. 就业/Lecture 3：简历对应文字版 - Unity版本.md",
+    "8. 就业&考研&创业/3. 就业/Lecture 4：简历对应文字版 - CSharp版本.md",
+    "8. 就业&考研&创业/3. 就业/Lecture 4：简历对应文字版 - CSharp版本.md.baiduyun.uploading.cfg",
+    "8. 就业&考研&创业/3. 就业/Lecture 1：简历制作教程.md.baiduyun.uploading.cfg",
+    "0. 附件/Pasted image 20240123195226.png.baiduyun.uploading.cfg",
+    "0. 附件/Pasted image 20240123195226.png",
+    "8. 就业&考研&创业/3. 就业/Lecture 3：简历对应文字版 - Unity版本.md.baiduyun.uploading.cfg",
+    "8. 就业&考研&创业/3. 就业/未命名.md.baiduyun.uploading.cfg",
+    "8. 就业&考研&创业/3. 就业/Lecture 5：24年暑期面试 - 简历投递时间安排表.md",
+    "8. 就业&考研&创业/1. 考研/3. 数学/4. 第四章：积分学/Lecture 32：定积分的计算.md",
+    "8. 就业&考研&创业/1. 考研/3. 数学/4. 第四章：积分学/Lecture 32：定积分的计算.md.baiduyun.uploading.cfg",
+    "0. 附件/Pasted image 20240123145622.png.baiduyun.uploading.cfg",
+    "0. 附件/Pasted image 20240123145622.png",
+    "8. 就业&考研&创业/1. 考研/3. 数学/4. 第四章：积分学/Lecture 31：定积分的基本概念.md",
+    "8. 就业&考研&创业/1. 考研/3. 数学/4. 第四章：积分学/Lecture 29：换元积分法.md",
+    "8. 就业&考研&创业/1. 考研/3. 数学/4. 第四章：积分学/Lecture 30：分部积分法.md",
+    "8. 就业&考研&创业/1. 考研/3. 数学/4. 第四章：积分学/Lecture 28：不定积分.md",
+    "0. 附件/Pasted image 20240123140558.png",
+    "8. 就业&考研&创业/1. 考研/3. 数学/3. 第三章：微分中值定理/Lecture 25：函数的极值与最值.md",
+    "0. 附件/Pasted image 20240122224209.png",
+    "0. 附件/Pasted image 20240121212018.png",
+    "8. 就业&考研&创业/1. 考研/3. 数学/2. 第二章：导数/Lecture 16：导数基本概念.md",
+    "0. 附件/Pasted image 20240121205610.png",
+    "0. 附件/Pasted image 20240121205037.png",
+    "0. 附件/Pasted image 20240121204535.png",
+    "8. 就业&考研&创业/1. 考研/3. 数学/3. 第三章：微分中值定理/Lecture 26：函数图形的绘制.md",
+    "8. 就业&考研&创业/3. 就业/Lecture 2：个人简历信息.md",
+    "0. 附件/Pasted image 20240121154048.png",
+    "2. 简问科技/2. 课程备课/009.程序架构设计 备课.md",
+    "0. 附件/Pasted image 20240121152048.png",
+    "8. 就业&考研&创业/1. 考研/3. 数学/4. 第四章：积分学/Lecture 27：曲率.md",
+    "2. 简问科技/2. 课程备课/003. 程序编译原理.md",
+    "2. 简问科技/2. 课程备课/008.软件工程章节备课.md",
+    "8. 就业&考研&创业/1. 考研/3. 数学/3. 第三章：微分中值定理/Lecture 23：泰勒公式.md",
+    "1.canvas",
+    "15.canvas",
+    "@.canvas",
+    "未命名 2.canvas",
+    "未命名 5.canvas",
+    "未命名 4.canvas",
+    "未命名 3.canvas",
+    "未命名 1.canvas",
+    "@@.canvas",
+    "1. 计算机学科笔记/2. 操作系统/Lecture 0：附件/11.1.canvas"
+  ]
+}

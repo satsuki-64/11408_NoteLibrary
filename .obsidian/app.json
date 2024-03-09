@@ -1,0 +1,19 @@
+{
+  "vimMode": false,
+  "rightToLeft": false,
+  "foldHeading": true,
+  "showLineNumber": false,
+  "readableLineLength": false,
+  "attachmentFolderPath": "",
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 75
+  },
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "trashOption": "local"
+}

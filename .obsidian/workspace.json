@@ -1,0 +1,264 @@
+{
+  "main": {
+    "id": "9c649a129cd49f4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ddd1589a6c88992",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9eafb11d65542b0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_数学/01_高等数学/1. 第一章：函数、极限、连续/Lecture 2：函数的概念及常见函数.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "465b84ead89aedc1",
+    "type": "split",
+    "children": [
+      {
+        "id": "b32c6e78e362583c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9570b176e5062bdb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "014f75e2bb202f63",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "41780a592e392901",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 320.01103591918945
+  },
+  "right": {
+    "id": "2ec678cf7e211286",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a22ea0bd65ce3a2",
+        "type": "tabs",
+        "dimension": 76.16632860040568,
+        "children": [
+          {
+            "id": "1d5e877c87f2c56d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01_数学/01_高等数学/1. 第一章：函数、极限、连续/Lecture 2：函数的概念及常见函数.md"
+              }
+            }
+          },
+          {
+            "id": "7b52a9acf5f35668",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "643ae1aa261f0f1f",
+        "type": "tabs",
+        "dimension": 23.83367139959432,
+        "children": [
+          {
+            "id": "51787655e28d34eb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8ca6f3e73459e00b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a3c402f56bd8c009",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "84db9c06c5e79f75",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "密码",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "02b701b92ede968b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "fb33a0c5721b0668",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01_数学/01_高等数学/1. 第一章：函数、极限、连续/Lecture 2：函数的概念及常见函数.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d9af19663fdb47ec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01_数学/01_高等数学/1. 第一章：函数、极限、连续/Lecture 2：函数的概念及常见函数.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 284
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "audio-recorder:开始/结束录音": false,
+      "workspaces:管理工作区布局": false,
+      "graph:查看关系图谱": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "9eafb11d65542b0f",
+  "lastOpenFiles": [
+    "00_附件/Pasted image 20240310025442.png",
+    "01_数学/03_概率论",
+    "01_数学/02_线性代数",
+    "03_专业/02_操作系统/1. 第一章：计算机系统概述/Lecture 1：操作系统概念.md",
+    "00_附件/Pasted image 20240308154209.png",
+    "00_附件/Pasted image 20240308145544.png",
+    "00_附件/Pasted image 20240308153456.png",
+    "00_附件/Pasted image 20240308160356.png",
+    "00_附件/Pasted image 20240308160803.png",
+    "00_附件/Pasted image 20240308160328.png",
+    "00_附件/Pasted image 20240308152851.png",
+    "03_专业/01_数据结构/2. 第二章：线性表/Lecture 6：顺序表和链表对比.md",
+    "00_附件/Pasted image 20240310025638.png",
+    "03_专业/01_数据结构/2. 第二章：线性表/Lecture 5：线性表的链式实现.md",
+    "00_附件/Pasted image 20240310025613.png",
+    "00_附件/Pasted image 20240310025541.png",
+    "03_专业/01_数据结构/2. 第二章：线性表/Lecture 4：线性表的顺序实现.md",
+    "03_专业/01_数据结构/2. 第二章：线性表/Lecture 3：线性表的定义与基本操作.md",
+    "03_专业/01_数据结构/1. 第一章：绪论/Lecture 1：数据结构的基本概念.md",
+    "03_专业/01_数据结构/1. 第一章：绪论/Lecture 2：算法和算法评价.md",
+    "02_英语/01_语法/Lecture 10：非谓语动词.md",
+    "02_英语/01_语法/Lecture 9：同位语与插入语.md",
+    "02_英语/01_语法/Lecture 8：介词短语.md",
+    "02_英语/01_语法/Lecture 7：限定词、形容词与副词.md",
+    "02_英语/01_语法/Lecture 6：谓语动词的变化 - 考察攻略.md",
+    "02_英语/01_语法/Lecture 5：否定与强调.md",
+    "02_英语/01_语法/Lecture 4：被动语态.md",
+    "02_英语/01_语法/Lecture 3：谓语动词的情态与语态.md",
+    "02_英语/01_语法/Lecture 2：谓语动词的时态.md",
+    "02_英语/01_语法/Lecture 1：语法 - 简单句的核心构成.md",
+    "01_数学/01_高等数学/7. 第七章：无穷级数/Lecture 57：函数展开成幂级数.md",
+    "01_数学/01_高等数学/7. 第七章：无穷级数/Lecture 56：幂级数.md",
+    "01_数学/01_高等数学/7. 第七章：无穷级数/Lecture 55：交错级数与任意项级数.md",
+    "01_数学/01_高等数学/7. 第七章：无穷级数/Lecture 54：正项级数.md",
+    "01_数学/01_高等数学/7. 第七章：无穷级数/Lecture 53：常数项级数.md",
+    "01_数学/01_高等数学/6. 第六章：多元函数积分学/Lecture 52：对坐标的曲面积分.md",
+    "01_数学/01_高等数学/6. 第六章：多元函数积分学/Lecture 51：对面积的曲面积分.md",
+    "01_数学/01_高等数学/6. 第六章：多元函数积分学/Lecture 50：格林公式.md",
+    "03_专业/02_操作系统/4. 第四章：文件管理",
+    "03_专业/02_操作系统/3. 第三章：内存管理",
+    "03_专业/02_操作系统/2. 第二章：进程与线程",
+    "03_专业/02_操作系统/1. 第一章：计算机系统概述/Lecture 1：操作系统概念.html",
+    "03_专业/02_操作系统/1. 第一章：计算机系统概述",
+    "03_专业/02_操作系统/5. 第五章：IO管理",
+    "03_专业/01_数据结构/1. 第一章：绪论",
+    "03_专业/01_数据结构/2. 第二章：线性表",
+    "未命名.canvas",
+    "9. 考研相关/4. 计算机/2. 操作系统/0. 其他/初见/总纲.canvas",
+    "9. 考研相关/3. 数学/5. 公式/1. 常用求极限公式.canvas",
+    "9. 考研相关/4. 计算机/1. 数据结构/0. 其他/初见/DS - 2.canvas",
+    "9. 考研相关/4. 计算机/1. 数据结构/0. 其他/初见/DS - 3.canvas",
+    "9. 考研相关/4. 计算机/1. 数据结构/0. 其他/初见/DS - 5.canvas",
+    "9. 考研相关/4. 计算机/1. 数据结构/0. 其他/初见/DS - 6.canvas",
+    "9. 考研相关/4. 计算机/1. 数据结构/0. 其他/初见/DS - 7.canvas",
+    "9. 考研相关/4. 计算机/1. 数据结构/0. 其他/初见/DS - 8.canvas",
+    "9. 考研相关/4. 计算机/1. 数据结构/0. 其他/初见/DS - 1.canvas"
+  ]
+}

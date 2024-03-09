@@ -1,0 +1,14 @@
+{
+  "accentColor": "#85c4ff",
+  "theme": "obsidian",
+  "translucency": false,
+  "baseFontSize": 17,
+  "textFontFamily": "字魂160号-檀宋",
+  "cssTheme": "AnuPpuccin",
+  "enabledCssSnippets": [
+    "AnuExtendTheme",
+    "表格优化"
+  ],
+  "baseFontSizeAction": true,
+  "nativeMenus": false
+}

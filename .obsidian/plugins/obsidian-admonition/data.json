@@ -1,0 +1,137 @@
+{
+  "userAdmonitions": {
+    "blank": {
+      "type": "blank",
+      "color": "255, 255, 255",
+      "icon": {
+        "name": "border-style",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": " "
+    },
+    "kanban": {
+      "type": "kanban",
+      "color": "83, 54, 85",
+      "icon": {
+        "name": "ad",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true
+    },
+    "col2": {
+      "type": "col2",
+      "color": "157, 146, 208",
+      "icon": {
+        "name": "address-book",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true
+    },
+    "col3": {
+      "type": "col3",
+      "color": "37, 151, 137",
+      "icon": {
+        "name": "ad",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true
+    },
+    "col4": {
+      "type": "col4",
+      "color": "147, 153, 57",
+      "icon": {
+        "name": "address-book",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true
+    },
+    "hibox": {
+      "type": "hibox",
+      "color": "68, 161, 243",
+      "icon": {
+        "name": "adjust",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true,
+      "copy": false
+    },
+    "col": {
+      "type": "col",
+      "color": "69, 221, 77",
+      "icon": {
+        "name": "ad",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true
+    },
+    "table": {
+      "type": "table",
+      "color": "55, 179, 183",
+      "icon": {
+        "name": "table",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true,
+      "copy": false
+    },
+    "flex": {
+      "type": "flex",
+      "color": "94, 206, 45",
+      "icon": {
+        "name": "ad",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true,
+      "copy": false
+    },
+    "music": {
+      "type": "music",
+      "color": "58, 223, 212",
+      "icon": {
+        "name": "music",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true
+    }
+  },
+  "syntaxHighlight": false,
+  "copyButton": false,
+  "version": "10.2.0",
+  "autoCollapse": false,
+  "defaultCollapseType": "open",
+  "injectColor": true,
+  "parseTitles": true,
+  "dropShadow": true,
+  "hideEmpty": false,
+  "open": {
+    "admonitions": true,
+    "icons": true,
+    "other": true,
+    "advanced": true
+  },
+  "icons": [],
+  "useFontAwesome": true,
+  "rpgDownloadedOnce": false,
+  "msDocConverted": false,
+  "useSnippet": true,
+  "snippetPath": "custom-admonitions.100296"
+}
