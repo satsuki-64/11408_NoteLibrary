@@ -3,7 +3,7 @@
   "theme": "obsidian",
   "translucency": false,
   "baseFontSize": 15,
-  "textFontFamily": "字魂160号-檀宋",
+  "textFontFamily": "霞鹜文楷 GB 屏幕阅读版 R,字魂160号-檀宋,Inter",
   "cssTheme": "AnuPpuccin",
   "enabledCssSnippets": [
     "表格优化",
@@ -12,5 +12,5 @@
   ],
   "baseFontSizeAction": true,
   "nativeMenus": false,
-  "interfaceFontFamily": "Century,Arial,Inter"
+  "interfaceFontFamily": "Arial,Cascadia Code,Agency FB,Inter,字魂160号-檀宋,Century"
 }

@@ -102,5 +102,4 @@ date: 2024-02-26
 **例题**：$\text{设 }g(x)=\begin{cases}2-x,&x\leq0,\\x+2,&x>0,\end{cases}f(x)=\begin{cases}x^2,&x<0,\\-x,&x\geq0,&\end{cases}\text{则 }g[f(x)]=(\quad)$
 + 分析
 + 解析
-+ 题型：#
-#### PART 3：知识点复盘
++ 题型： #复合函数 

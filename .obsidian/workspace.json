@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2ddd1589a6c88992",
+        "id": "a01f52e4a83c9a8e",
         "type": "tabs",
         "children": [
           {
-            "id": "9eafb11d65542b0f",
+            "id": "58c36b0788b6eaed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_数学/01_高等数学/1. 第一章：函数、极限、连续/Lecture 2：函数的概念及常见函数.md",
+                "file": "01_数学/01_高等数学/4. 第四章：积分学/Lecture 28：不定积分.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
       {
         "id": "0a22ea0bd65ce3a2",
         "type": "tabs",
-        "dimension": 76.16632860040568,
+        "dimension": 81.48148148148148,
         "children": [
           {
             "id": "1d5e877c87f2c56d",
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_数学/01_高等数学/1. 第一章：函数、极限、连续/Lecture 2：函数的概念及常见函数.md"
+                "file": "01_数学/01_高等数学/4. 第四章：积分学/Lecture 28：不定积分.md"
               }
             }
           },
@@ -100,7 +100,7 @@
       {
         "id": "643ae1aa261f0f1f",
         "type": "tabs",
-        "dimension": 23.83367139959432,
+        "dimension": 18.51851851851852,
         "children": [
           {
             "id": "51787655e28d34eb",
@@ -135,7 +135,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "密码",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_数学/01_高等数学/1. 第一章：函数、极限、连续/Lecture 2：函数的概念及常见函数.md",
+                "file": "01_数学/01_高等数学/4. 第四章：积分学/Lecture 28：不定积分.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_数学/01_高等数学/1. 第一章：函数、极限、连续/Lecture 2：函数的概念及常见函数.md",
+                "file": "01_数学/01_高等数学/4. 第四章：积分学/Lecture 28：不定积分.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -202,54 +202,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9eafb11d65542b0f",
+  "active": "58c36b0788b6eaed",
   "lastOpenFiles": [
-    "00_附件/Pasted image 20240310025442.png",
-    "01_数学/03_概率论",
-    "01_数学/02_线性代数",
-    "03_专业/02_操作系统/1. 第一章：计算机系统概述/Lecture 1：操作系统概念.md",
-    "00_附件/Pasted image 20240308154209.png",
-    "00_附件/Pasted image 20240308145544.png",
-    "00_附件/Pasted image 20240308153456.png",
-    "00_附件/Pasted image 20240308160356.png",
-    "00_附件/Pasted image 20240308160803.png",
-    "00_附件/Pasted image 20240308160328.png",
-    "00_附件/Pasted image 20240308152851.png",
-    "03_专业/01_数据结构/2. 第二章：线性表/Lecture 6：顺序表和链表对比.md",
-    "00_附件/Pasted image 20240310025638.png",
-    "03_专业/01_数据结构/2. 第二章：线性表/Lecture 5：线性表的链式实现.md",
-    "00_附件/Pasted image 20240310025613.png",
-    "00_附件/Pasted image 20240310025541.png",
-    "03_专业/01_数据结构/2. 第二章：线性表/Lecture 4：线性表的顺序实现.md",
-    "03_专业/01_数据结构/2. 第二章：线性表/Lecture 3：线性表的定义与基本操作.md",
-    "03_专业/01_数据结构/1. 第一章：绪论/Lecture 1：数据结构的基本概念.md",
-    "03_专业/01_数据结构/1. 第一章：绪论/Lecture 2：算法和算法评价.md",
-    "02_英语/01_语法/Lecture 10：非谓语动词.md",
-    "02_英语/01_语法/Lecture 9：同位语与插入语.md",
-    "02_英语/01_语法/Lecture 8：介词短语.md",
-    "02_英语/01_语法/Lecture 7：限定词、形容词与副词.md",
-    "02_英语/01_语法/Lecture 6：谓语动词的变化 - 考察攻略.md",
-    "02_英语/01_语法/Lecture 5：否定与强调.md",
-    "02_英语/01_语法/Lecture 4：被动语态.md",
-    "02_英语/01_语法/Lecture 3：谓语动词的情态与语态.md",
-    "02_英语/01_语法/Lecture 2：谓语动词的时态.md",
-    "02_英语/01_语法/Lecture 1：语法 - 简单句的核心构成.md",
-    "01_数学/01_高等数学/7. 第七章：无穷级数/Lecture 57：函数展开成幂级数.md",
-    "01_数学/01_高等数学/7. 第七章：无穷级数/Lecture 56：幂级数.md",
-    "01_数学/01_高等数学/7. 第七章：无穷级数/Lecture 55：交错级数与任意项级数.md",
-    "01_数学/01_高等数学/7. 第七章：无穷级数/Lecture 54：正项级数.md",
-    "01_数学/01_高等数学/7. 第七章：无穷级数/Lecture 53：常数项级数.md",
-    "01_数学/01_高等数学/6. 第六章：多元函数积分学/Lecture 52：对坐标的曲面积分.md",
-    "01_数学/01_高等数学/6. 第六章：多元函数积分学/Lecture 51：对面积的曲面积分.md",
-    "01_数学/01_高等数学/6. 第六章：多元函数积分学/Lecture 50：格林公式.md",
-    "03_专业/02_操作系统/4. 第四章：文件管理",
-    "03_专业/02_操作系统/3. 第三章：内存管理",
-    "03_专业/02_操作系统/2. 第二章：进程与线程",
-    "03_专业/02_操作系统/1. 第一章：计算机系统概述/Lecture 1：操作系统概念.html",
-    "03_专业/02_操作系统/1. 第一章：计算机系统概述",
-    "03_专业/02_操作系统/5. 第五章：IO管理",
-    "03_专业/01_数据结构/1. 第一章：绪论",
-    "03_专业/01_数据结构/2. 第二章：线性表",
+    "01_数学/01_高等数学/4. 第四章：积分学/Lecture 28：不定积分.md.baiduyun.uploading.cfg",
+    "01_数学/01_高等数学/4. 第四章：积分学/Lecture 30：分部积分法.md",
+    "01_数学/01_高等数学/4. 第四章：积分学/Lecture 29：两类换元积分法.md",
+    "01_数学/01_高等数学/4. 第四章：积分学/Lecture 30：分部积分法.md.baiduyun.uploading.cfg",
+    "03_专业/01_数据结构/5. 树/Lecture 17：二叉树的遍历.md",
+    "03_专业/01_数据结构/3. 第三章：栈、队列/Lecture 12：特殊矩阵与压缩存储.md",
+    "03_专业/01_数据结构/3. 第三章：栈、队列/Lecture 11：栈在递归中的应用.md",
+    "03_专业/01_数据结构/3. 第三章：栈、队列/Lecture 9：栈在括号匹配中的应用.md",
+    "03_专业/02_操作系统/2. 第二章：进程与线程/Lecture 4：同步与互斥.md",
+    "03_专业/02_操作系统/2. 第二章：进程与线程/Lecture 5：死锁.md",
+    "03_专业/02_操作系统/2. 第二章：进程与线程/Lecture 2：进程与线程.md",
+    "03_专业/02_操作系统/2. 第二章：进程与线程/Lecture 3：处理器调度.md",
+    "03_专业/01_数据结构/5. 树/Lecture 19：树与二叉树的应用.md",
+    "03_专业/01_数据结构/5. 树/Lecture 16：二叉树常考性质.md",
+    "01_数学/01_高等数学/4. 第四章：积分学/Lecture 29：换元积分法.md.baiduyun.uploading.cfg",
+    "01_数学/01_高等数学/4. 第四章：积分学/Lecture 28：不定积分.md",
+    "01_数学/01_高等数学/2. 第二章：导数与微分/Lecture 16：导数基本概念.md",
+    "03_专业/02_操作系统/2. 第二章：进程与线程/Lecture 4：同步与互斥.md.baiduyun.uploading.cfg",
+    "02_英语/01_语法/01_简单句/Lecture 9：同位语与插入语.md",
+    "02_英语/01_语法/04_知识点总结/01 简单句_总结.md",
+    "02_英语/01_语法/02_长难句/Lecture 12：名词性从句.md",
+    "02_英语/01_语法/04_知识点总结/01 简单句_总结.md.baiduyun.uploading.cfg",
+    "02_英语/01_语法/02_长难句/Lecture 11：并列句.md",
+    "02_英语/01_语法/01_简单句/Lecture 10：非谓语动词.md",
+    "02_英语/01_语法/01_简单句/Lecture 8：介词短语.md",
+    "02_英语/01_语法/01_简单句/Lecture 7：限定词、形容词与副词.md",
+    "00_附件/Pasted Image 20240329165425_486.png.baiduyun.uploading.cfg",
+    "00_附件/Pasted Image 20240329165425_486.png",
+    "02_英语/01_语法/01_简单句/Lecture 6：谓语动词的变化 - 考察攻略.md",
+    "03_专业/01_数据结构/5. 树/Lecture 18：树、森林.md",
+    "03_专业/01_数据结构/5. 树/Lecture 18：树、森林.md.baiduyun.uploading.cfg",
+    "00_附件/Pasted image 20240329151252.png.baiduyun.uploading.cfg",
+    "00_附件/Pasted image 20240329151252.png",
+    "00_附件/Pasted image 20240329150929.png.baiduyun.uploading.cfg",
+    "00_附件/Pasted image 20240329150929.png",
+    "00_附件/Pasted image 20240329150326.png.baiduyun.uploading.cfg",
+    "00_附件/Pasted image 20240329150326.png",
+    "00_附件/Pasted image 20240329145927.png",
+    "00_附件/Pasted image 20240329145755.png",
+    "00_附件/Pasted image 20240329145557.png",
+    "00_附件/Pasted image 20240329145120.png",
+    "00_附件/Pasted image 20240329144014.png",
+    "00_附件/Pasted image 20240329143959.png",
+    "01_数学/01_高等数学/2. 第二章：导数与微分/Lecture 17：导数求导法则.md",
+    "01_数学/01_高等数学/3. 第三章：微分中值定理与导数应用/Lecture 26：渐近线与函数图形的绘制.md",
     "未命名.canvas",
     "9. 考研相关/4. 计算机/2. 操作系统/0. 其他/初见/总纲.canvas",
     "9. 考研相关/3. 数学/5. 公式/1. 常用求极限公式.canvas",

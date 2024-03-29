@@ -6,9 +6,7 @@ date: 2024-01-19
 ---
 ---
 ## 1.1 分部积分法
-### 1.1.1 分部积分法的基本概念
-**核心概念：把之前求导时候的乘法公式过程，倒转过来，形成分布积分法；**
-
+### 1.1.1 基本概念
 ##### **定义**： #分布积分法
 > <font color="#ccc1d9">描述：</font>设 $u(x),\nu(x)$ 有连续一阶导数，则 $\int udv=uv-\int vdu$
 
@@ -43,14 +41,33 @@ date: 2024-01-19
 + 题型： #分部积分法 
 
 ## 1.2 分部积分法总结
-+ 什么时候用
-	+ **适用于两类不同函数相乘**
-		+ ![[Pasted image 20240121204535.png]]
-+ 如何使用
+**总结**
++ 概念：把之前求导时候的乘法公式过程，倒转过来，形成分布积分法；
 
-**分部积分使用情况**
-$\int x^ne^x$ d $x, \quad \int x^n\sin x$ d$x, \quad \int x^n\cos xdx, $ $\int x^n\ln xdx;\int x^n\arctan xdx;\int x^n\arcsin xdx.$
- $\int e^x\sin xdx;\int e^x\cos xdx.$
-红圈的是凑近去的：
-![[Pasted image 20240121205037.png]]
-最后被两个，凑谁都行；
+**何时用**
++ 适用于**两类不同函数相乘**；
++ 1. $\int xe^{x}dx$
++ 2. $\int x\sin xdx$
++ 3. $\int e^{x}\sin xdx$
+
+**如何用**
++ 八类典型分部积分规律；
++ 多项函数 × 指数|三角：
+	+ 1. $\int p_n(x)e^{ax}\operatorname{d}x$
+		+ 凑指数
+	+ 2. $\int p_n(x)\sin ax\operatorname{d}x$
+		+ 凑三角
+	+ 3. $\int p_n(x)\cos axdx$
+		+ 凑三角
++ 多项函数 × 对数|反三角：
+	+ 4. $\int P_n(x)\ln xdx$
+		+ 凑多项式
+	+ 5. $\int P_n(x)\arctan xdx$
+		+ 凑多项式
+	+ 6. $\int P_n(x)\arcsin xdx$
+		+ 凑多项式
++ 指数 × 三角
+	+ 7. $\int e^{\alpha x}\sin\beta xdx$
+		+ 凑谁都行
+	+ 8. $\int e^{\alpha x}\cos\beta xdx$
+		+ 凑谁都行

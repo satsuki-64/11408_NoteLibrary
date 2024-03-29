@@ -47,9 +47,9 @@
       "😀|"
     ]
   ],
-  "userSelRuleSettingsOpen": true,
-  "userDelRuleSettingsOpen": true,
-  "userCvtRuleSettingsOpen": true,
+  "userSelRuleSettingsOpen": false,
+  "userDelRuleSettingsOpen": false,
+  "userCvtRuleSettingsOpen": false,
   "EnterTwice": false,
   "TryFixChineseIM": false,
   "PuncRectify": false
