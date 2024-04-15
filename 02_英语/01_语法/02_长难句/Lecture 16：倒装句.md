@@ -35,7 +35,7 @@ date: 2024-03-21
 
 **重要句式**：`There be + 名词`
 + 表达含义：有 
-	+ There be 的有不是拥有的意思，而是表达客观存在；
+	+ There be 的“有”不是拥有的意思，而是表达**客观存在**；
 + 概念：
 	+ there be 是一个倒装句，原本是一个 be there； 
 		+ 比如：*There is a girl. = A girl is there.*

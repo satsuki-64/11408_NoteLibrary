@@ -21,18 +21,18 @@ date: 2024-03-07
 + *It said that Internet Explorer 10, the version due to appear with windows 8，wouldould have DNT as a default.*
 
 **同位语的特点**
-+ 1. 放的位置 `->` 解释的名词在哪，它就在哪； 
++ 放的位置 `->` 解释的名词在哪，它就在哪； 
 
 
 ## 9.3 什么是插入语
-**插入语：值得位置上是插入进来的句子，通常会有标点把它进行隔开，可以识别；**
+**插入语：指的是位置上是插入进来的句子，通常会有标点把它进行隔开，可以识别；**
 
 ### 9.3.1 主谓结构作插入语
 **意思**：表示"某人说、某人认为..."
 + *No one, <u>he submits,</u> could have written it without possessingsome power of reasoning.*
-+ he submits：介绍了这句话的来源；
+	+ he submits：介绍了这句话的来源；
 + *This speeding up of life, <u>says the Futurist</u>, requires a new form of expression.*
-+ 生活的加速，未来主义者说，需要一种新的生活方式；
+	+ 生活的加速，未来主义者说，需要一种新的生活方式；
 
 ### 9.3.2 副词作插入语
 + *Politics or, <u>more broadly</u>, the functioning of the state, is a majorsubject for journalists.*

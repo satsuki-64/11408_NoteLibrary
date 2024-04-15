@@ -6,7 +6,10 @@ tags:
 categories: 
 date: 2024-02-28
 ---
- ## 1.1 简单句的核心构成
+## 前言
++ 语法教程文档推荐：[序——我学英语的经验 | 语法俱乐部 (llwslc.github.io)](https://llwslc.github.io/grammar-club/content/Preface.html)
+
+## 1.1 简单句的核心构成
 ### 1.1.1 名词+动词
 **最核心：名词+动词**
 + 名称：主语 -> 1 个
